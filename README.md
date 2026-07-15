@@ -24,6 +24,10 @@ It is bright. It is sharp. It is not here to whisper.
 - Matching styles for Reading view and Live Preview
 - Optional left- and right-floating images
 
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/blockquotes-tables-code.png">
+
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/lists.png">
+
 ## Installation
 
 ### From Obsidian Community Themes
