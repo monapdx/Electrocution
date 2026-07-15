@@ -2,6 +2,8 @@
 
 **A high-voltage neo-brutalist theme for Obsidian.**
 
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/logo.png">
+
 Electrocution turns your vault into a wall of fluorescent color, hard black borders, offset shadows, and unapologetically loud typography. It combines the blunt structure of neo-brutalism with an electric palette of hot pink, acid lime, ultraviolet purple, cyan, and warning yellow.
 
 It is bright. It is sharp. It is not here to whisper.
