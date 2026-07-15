@@ -6,6 +6,8 @@ Electrocution turns your vault into a wall of fluorescent color, hard black bord
 
 It is bright. It is sharp. It is not here to whisper.
 
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/screenshot.png">
+
 ## Features
 
 - Bold neo-brutalist headings with heavy borders and offset shadows
