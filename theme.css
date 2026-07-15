@@ -169,11 +169,15 @@ body,
 .task-list-item {
   border: 3px solid var(--nb-black) !important;
   background: var(--nb-white) !important;
-  padding: 8px !important;
+  padding: 8px 12px !important;
   margin: 6px 0 !important;
   box-shadow: 4px 4px 0 var(--nb-black) !important;
 }
-.task-list-item-checkbox { transform: scale(1.4); }
+.task-list-item-checkbox {
+  transform: scale(1.4);
+  margin-inline-start: 2px !important;
+  margin-inline-end: 12px !important;
+}
 .is-checked { background: var(--nb-lime) !important; }
 
 /* ==========================================================
