@@ -36,6 +36,7 @@ body,
   --nb-pink: #ff2bd6;
   --nb-lime: #39ff14;
   --nb-purple: #7a00ff;
+  --nb-heliotrope: #df73ff;
   --nb-yellow: #ffe600;
   --nb-cyan: #00e5ff;
   --nb-black: #000000;
@@ -179,6 +180,15 @@ body,
   margin-inline-end: 12px !important;
 }
 .is-checked { background: var(--nb-lime) !important; }
+
+.task-list-item:hover {
+  background: var(--nb-heliotrope) !important;
+  color: var(--nb-black) !important;
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0 var(--nb-black) !important;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
 
 /* ==========================================================
    BLOCKQUOTES / TABLES
