@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/logo.png">
 
-<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/wired-lineal-439-lab-bottle-triangle-hover-oscillate.gif" width="150"><img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/liberty-blue.gif" width="150"><img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/floppy.gif" width="150">
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/wired-lineal-439-lab-bottle-triangle-hover-oscillate.gif" width="150"><img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/liberty-blue.gif" width="150"><img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/floppy.gif" width="150"> <img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/doodle-color-73-star-rating-hover-rotation.gif" width="150"><img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/doodle-color-202-share-hover-pinch.gif" width="150"> <img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/doodle-color-476-chat-hover-oscillate.gif" width="150">
 
 Electrocution turns your vault into a wall of fluorescent color, hard black borders, offset shadows, and unapologetically loud typography. It combines the blunt structure of neo-brutalism with an electric palette of hot pink, acid lime, ultraviolet purple, cyan, and warning yellow.
 
