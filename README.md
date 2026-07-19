@@ -4,11 +4,27 @@
 
 <img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/logo.png">
 
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/wired-lineal-439-lab-bottle-triangle-hover-oscillate.gif" width="150"><img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/liberty-blue.gif" width="150"><img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/floppy.gif" width="150"> <img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/doodle-color-202-share-hover-pinch.gif" width="150"> <img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/doodle-color-476-chat-hover-oscillate.gif" width="150">
+
 Electrocution turns your vault into a wall of fluorescent color, hard black borders, offset shadows, and unapologetically loud typography. It combines the blunt structure of neo-brutalism with an electric palette of hot pink, acid lime, ultraviolet purple, cyan, and warning yellow.
 
 It is bright. It is sharp. It is not here to whisper.
 
-<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/screenshot.png">
+## Checklists
+
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/checklist-hover.gif">
+
+## Code Blocks
+
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/code-block.gif">
+
+## List of Links
+
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/list-of-links.gif">
+
+## Tables
+
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/table.gif">
 
 ## Features
 
@@ -26,9 +42,13 @@ It is bright. It is sharp. It is not here to whisper.
 - Matching styles for Reading view and Live Preview
 - Optional left- and right-floating images
 
+## Screenshots
+
 <img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/blockquotes-tables-code.png">
 
 <img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/lists.png">
+
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/screenshot.png">
 
 ## Installation
 
