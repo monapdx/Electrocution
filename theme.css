@@ -319,3 +319,55 @@ img { border: 4px solid var(--nb-black) !important; box-shadow: 8px 8px 0 var(--
 .nav-file-title.is-active { background: var(--nb-pink) !important; color: var(--nb-black) !important; font-weight: 900 !important; border: 3px solid var(--nb-black) !important; box-shadow: 4px 4px 0 var(--nb-lime) !important; }
 .workspace-tab-header.is-active { background: var(--nb-white) !important; color: var(--nb-black) !important; border: 3px solid var(--nb-black) !important; }
 ::selection { background: var(--nb-pink) !important; color: var(--nb-black) !important; }
+
+/* Prevent Meta Bind controls from being styled as inline code */
+.markdown-rendered code.interactive-child.mb-input,
+.markdown-preview-view code.interactive-child.mb-input,
+.markdown-reading-view code.interactive-child.mb-input {
+  background: transparent !important;
+  color: inherit !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  font-family: inherit !important;
+}
+
+.markdown-rendered :not(pre) > code:not(.mb-input):not(.interactive-child):not([class*="mb-"]),
+.markdown-preview-view :not(pre) > code:not(.mb-input):not(.interactive-child):not([class*="mb-"]),
+.cm-inline-code {
+  background: var(--nb-black) !important;
+  color: var(--nb-lime) !important;
+  border: 2px solid var(--nb-pink) !important;
+  padding: 2px 5px !important;
+  border-radius: 0 !important;
+  opacity: 1 !important;
+}
+
+/* ==========================================================
+   META BIND COMPATIBILITY
+   Prevent plugin controls from inheriting inline-code styling
+   ========================================================== */
+
+.markdown-rendered code.interactive-child,
+.markdown-preview-view code.interactive-child,
+.markdown-reading-view code.interactive-child,
+.markdown-rendered code[class*="mb-"],
+.markdown-preview-view code[class*="mb-"],
+.markdown-reading-view code[class*="mb-"],
+.markdown-rendered code:has(.mb-input-wrapper),
+.markdown-preview-view code:has(.mb-input-wrapper),
+.markdown-reading-view code:has(.mb-input-wrapper) {
+  background: transparent !important;
+  color: inherit !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  font-family: inherit !important;
+  font-size: inherit !important;
+  white-space: normal !important;
+}
+
