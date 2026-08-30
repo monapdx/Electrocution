@@ -2,7 +2,7 @@
 
 **A high-voltage neo-brutalist theme for Obsidian.**
 
-<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/logo.png">
+<img src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/electrocution-banner.png">
 
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/wired-lineal-439-lab-bottle-triangle-hover-oscillate.gif" width="70"><img align="center" src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/liberty-blue.gif" width="70"><img align="center" src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/floppy.gif" width="70"> <img align="center" src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/doodle-color-202-share-hover-pinch.gif" width="70"> <img align="center" src="https://raw.githubusercontent.com/monapdx/Electrocution/refs/heads/main/assets/doodle-color-476-chat-hover-oscillate.gif" width="70"></p>
 
